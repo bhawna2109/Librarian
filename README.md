@@ -21,4 +21,4 @@ You can search for your book by typing `/bookbug [book-name]` in Slack. No switc
 * If the book is unavailable, well, it is time to buy a new book -
 [![Image of unavailable](https://jsshzyxacm.files.wordpress.com/2017/10/screen-shot-2017-10-23-at-5-57-51-pm.png)](https://jsshzyxacm.files.wordpress.com/2017/10/screen-shot-2017-10-23-at-5-57-51-pm.png)
 
-Check out the [Librarian documentation](https://documenter.getpostman.com/view/804329/71FWAgx) for step-by-step instructions.
+Check out the [Librarian documentation](https://documenter.getpostman.com/view/804329/71FWAgx) for step-by-step instructions on how to get started.
